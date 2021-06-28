@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardBackgroundColor="#88f44336"
+    app:cardCornerRadius="24dp"
+     android:layout_margin="2dp"
+    app:cardElevation="0dp">
+    <ImageView
+        android:layout_width="105dp"
+        android:layout_height="105dp"
+        android:tint="#ffffff"
+        android:layout_gravity="center"
+        android:src="@drawable/icon_heart_vector" />
+</androidx.cardview.widget.CardView>
